@@ -1,7 +1,7 @@
 import Chicken from "../assets/Chicken.svg";
-import Hamburger from "../assets/hamburger.svg";
-import Pizza from "../assets/pizza.svg";
-import Submarine from "../assets/submarine.svg";
+import Hamburger from "../assets/Hamburger.svg";
+import Pizza from "../assets/Pizza.svg";
+import Submarine from "../assets/Submarine.svg";
 
 const orderItems = [
   { id: 1, name: "Hamburger", price: 300, quantity: 0, image: Hamburger },
